@@ -1,1 +1,1 @@
-# BJOOP
+# Blackjack code challenge.
